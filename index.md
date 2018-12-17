@@ -13,6 +13,6 @@ If you can build an open ended connect three before your opponent does, you shou
 Loser moves first on new game start.
 History table shows all history for the two current player names.
 
-Enjoy!
+Enjoy.
 
 
